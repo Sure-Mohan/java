@@ -3,7 +3,7 @@ public class FormattedOutput1
 {
 	public static void main(String args[])
 	{
-		String str="Adi Reddy";
+		String str="Mohan";
 		System.out.printf("The String value is   : %s\n",str);
 		int x=512;
 		System.out.printf("The Integer value is  : %d\n",x);
